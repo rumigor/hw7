@@ -17,6 +17,5 @@ public class Main {
         for (int i = 0; i < cats.length; i++) {
             cats[i].eat(plate);
         }
-
     }
 }

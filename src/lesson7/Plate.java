@@ -27,4 +27,5 @@ public class Plate {
     public void addFood(int amount) {
         food += amount;
     }
+
 }

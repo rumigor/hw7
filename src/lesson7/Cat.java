@@ -36,5 +36,4 @@ public class Cat {
             }
         if (this.isFedUp) {System.out.println("Кот " + this.name + " сыт!");}
     }
-
 }
